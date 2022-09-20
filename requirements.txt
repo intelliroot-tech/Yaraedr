@@ -1,0 +1,14 @@
+
+elastic-transport==8.4.0
+elasticsearch==8.4.1
+future==0.18.2
+pefile==2022.5.30
+pyparsing==3.0.8
+python-dateutil==2.8.2
+pywin32==304
+pywin32-ctypes==0.2.0
+six==1.16.0
+urllib3==1.26.12
+userpath==1.8.0
+WMI==1.5.1
+yara-python==4.2.3
