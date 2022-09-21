@@ -8,7 +8,7 @@ There are two ways to use the program:
 2. Standalone executable ( packed with Pyinstaller)
   
 
-Usage:                                      
+<h2> Usage: </h2>                                     
 
 Option1 : Get help options <br />
                                            
@@ -28,3 +28,5 @@ yaraedr64.exe -es y -yf <yara filename><br/>
         
 python  yaraedr.py -es y -yd <name of directory><br/>
 yaraedr64.exe -es y -yd <name of directory><br/>
+
+<a href="https://intelliroot.com/resource_library/tools/yaraedr">Read More: https://intelliroot.com/resource_library/tools/yaraedr<a>
